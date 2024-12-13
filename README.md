@@ -1,0 +1,2 @@
+# LANCS-WECA
+CI course
